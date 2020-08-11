@@ -2,12 +2,12 @@
 //In this exercise, you’ll refactor some ES5 code into ES2015.
 
 //ES5 Global Constants
+var PI = 3.14;
+PI = 42; // stop me from doing this!
 
-// var PI = 3.14;
-// PI = 42; // stop me from doing this!
-const PI = 3.14;
 
 // ES2015 Global Constants
+const PI = 3.14;
 
 /* Write an ES2015 Version */
 //Quiz
